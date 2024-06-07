@@ -1,0 +1,56 @@
+[
+    {
+        "id": "1",
+        "name": "Real - Barcelona",
+        "startsAt": "2032-05-01T20:00:00",
+        "status": 1,
+        "markets": [
+            {
+                "id": "1-1",
+                "marketId": "3way",
+                "st atus": 1,
+                "outcomes": [
+                    {
+                        "id": "1-1-1",
+                        "outcomeId": "3way-1",
+                        "status": 1,
+                        "odds": 1.5513
+                    },
+                    {
+                        "id": "1-1-2",
+                        "outc omeId": "3way-2",
+                        "status": 0,
+                        "odds": 2.1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "name": "BiH - Nigerija",
+        "startsAt": "2014-06-02T20:00:00",
+        "status": 1,
+        "markets": [
+            {
+                "id": "2-1",
+                "marketId": "3way",
+                "status": 1,
+                "outcomes": [
+                    {
+                        "id": "2-1-1",
+                        "outcomeId": "3way-1",
+                        "status": 1,
+                        "odds": 1.5513
+                    },
+                    {
+                        "id": "2-1-2",
+                        "outco meId": "3way-2",
+                        "status": 1,
+                        "odds": 2.1
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,17 @@
+{
+    "id": "total",
+    "name": "Total",
+    "status": 1,
+    "outcomes": [
+        {
+            "id:": "total-0.5",
+            "name": "1",
+            "status": 1
+        },
+        {
+            "id:": "total- 1.5",
+            "name": "2",
+            "status": 1
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+[
+    {
+        "id": "3way",
+        "name": "3 way",
+        "status": 1,
+        "outcomes": [
+            {
+                "id:": "3way-1",
+                "name": "1",
+                "status": 1
+            },
+            {
+                "id:": "3way-2",
+                "name": "2",
+                "status": 1
+            },
+            {
+                "id:": "3way-X",
+                "name": "X",
+                "status": 0
+            }
+        ]
+    },
+    {
+        "id": "2way",
+        "name": "2 way",
+        "status": 0,
+        "outcomes": [
+            {
+                "id:": "2way-1",
+                "name": "1",
+                "status": 1
+            },
+            {
+                "id:": "2way-2",
+                "name": "2",
+                "status": 1
+            }
+        ]
+    }
+]
